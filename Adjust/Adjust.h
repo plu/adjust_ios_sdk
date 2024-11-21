@@ -9,6 +9,7 @@
 
 #import "ADJEvent.h"
 #import "ADJConfig.h"
+#import "ADJCriteo.h"
 #import "ADJAttribution.h"
 #import "ADJSubscription.h"
 #import "ADJThirdPartySharing.h"
